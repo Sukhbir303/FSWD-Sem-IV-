@@ -1,0 +1,65 @@
+*{
+    padding: 10;
+    margin: 0;
+    margin-left: 15px;
+}
+.heading{
+    background-color: #1797A6;
+    height: 150px;
+    width: fit-content;
+}
+.heading h1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
+.name{
+    padding: 10px;
+}
+.name h6{
+    opacity: 0.8;
+}
+.main{
+    display: flex;
+    column-gap: 10px;
+}
+.side-bar{
+    background-color:#1797A6;
+    height: 550px;
+    width: 300px;
+    
+}
+.profile{
+    margin: 10px;
+    padding: 10px;
+}
+.profile h4 {
+    margin: 5px;
+    padding: 10px;
+}
+.profile p,a {
+    color: black;
+    opacity: 0.8;
+    text-decoration: none;
+}
+.contant{
+    margin: 5px;
+    padding: 10px;
+}
+.contant hr{
+    text-decoration-thickness: 2px;
+    height: 2px;
+    color: #000;
+}
+.contant h3{
+    margin: 5px;
+    padding: 5px;
+    color: #1797A6;
+    font-size: 20px;
+    /* border-bottom:aqua; */
+}
+.contant p,li{
+    margin: 5px;
+    padding: 5px;
+}
